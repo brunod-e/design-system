@@ -3,22 +3,11 @@
   "workspaces": [
     "packages/*"
   ],
-  "name": "design-system",
-  "description": "- [] Text\r - [] Heading\r - [] Box\r - [] Button\r - [] TextInput\r - [] TextArea\r - [] Checkbox\r - [] Avatar\r - [] MultiStep",
-  "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/brunod-e/design-system.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brunod-e/design-system/issues"
-  },
-  "homepage": "https://github.com/brunod-e/design-system#readme"
+  "devDependencies": {
+    "turbo": "^1.5.5"
+  }
 }
