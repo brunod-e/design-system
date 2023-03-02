@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/tokens",
-  "version": "1.0.0",
+  "name": "@brunod-e-ignite-ui/tokens",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@brunod-e-ignite-ui/ts-config": "*",
+    "@brunod-e-ignite-ui/eslint-config": "*",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
   }

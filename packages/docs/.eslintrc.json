@@ -1,4 +1,4 @@
 {
-  "extends": "@ignite-ui/eslint-config",
+  "extends": "@brunod-e-ignite-ui/eslint-config",
   "useTabs": false
 }
