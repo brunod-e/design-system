@@ -29,7 +29,6 @@ export const Text = styled('p', {
     size: 'md',
   },
 });
-// test
 
 export interface TextProps extends ComponentProps<typeof Text> {
   as?: ElementType;
