@@ -1,18 +1,34 @@
-import { User } from 'phosphor-react';
+import * as ToastPrimitive from '@radix-ui/react-toast';
+import { User, X } from 'phosphor-react';
 import { ComponentProps } from 'react';
-import { AvatarContainer, AvatarFallback, AvatarImage } from './styles';
+import {
+  ToastClose,
+  ToastDescription,
+  ToastRoot,
+  ToastTitle,
+  ToastViewPort,
+} from './styles';
+// import { ToastContainer, ToastFallback, ToastImage } from './styles';
 
-export interface AvatarProps extends ComponentProps<typeof AvatarImage> {}
+export interface ToastProps extends ComponentProps<typeof ToastPrimitive.Root> {
+  title: string;
+  description?: string;
+}
 
-export const Avatar = (props: AvatarProps) => {
+export const Toast = ({ title, description, ...props }: ToastProps) => {
   return (
-    <AvatarContainer>
-      <AvatarImage {...props} />
-      <AvatarFallback delayMs={600}>
-        <User />
-      </AvatarFallback>
-    </AvatarContainer>
+    <ToastPrimitive.Provider>
+      <ToastRoot {...props}>
+        <ToastTitle>{title}</ToastTitle>
+        {description && <ToastDescription>{description}</ToastDescription>}
+        <ToastClose>
+          <X />
+        </ToastClose>
+      </ToastRoot>
+
+      <ToastViewPort />
+    </ToastPrimitive.Provider>
   );
 };
 
-Avatar.displayName = 'Avatar';
+Toast.displayName = 'Toast';
