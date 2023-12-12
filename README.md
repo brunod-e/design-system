@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/brunod-e/design-system">
-    <img src="https://user-images.githubusercontent.com/18430599/38112659-491f9112-3368-11e8-8b65-1725f19a61fa.png" alt="Logo" width="80" height="80">
+   <a href="https://github.com/brunod-e/ignite-call">
+    <img src="https://hotmart.s3.amazonaws.com/product_pictures/ec16822f-5482-421b-9c12-470cf1c099c8/Group6626.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Design System</h3>
@@ -10,10 +10,7 @@
     A comprehensive set of guidelines, principles, and assets created using React and Storybook.
     <br/>
     <br/>
-    <a href="https://github.com/brunod-e/design-system"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/brunod-e/design-system">View Demo</a>
+    <a href="brunod-e.github.io/design-system/">View Demo</a>
     .
     <a href="https://github.com/brunod-e/design-system/issues">Report Bug</a>
     .
