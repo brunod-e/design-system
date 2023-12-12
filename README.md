@@ -45,11 +45,11 @@ The @brunod-e-ignite-ui/tokens, part of the @brunod-e-ignite-ui library, provide
 
 ## Built With
 
-React: Library for building user interfaces.
-Storybook:  An open-source tool for developing UI components in isolation
-RadixUI: A collection of low-level UI primitives for building composable and accessible user interfaces
-Typescript: Language for static typing
-Stitches:  Library for styling React components
+React: Library for building user interfaces.<br/>
+Storybook:  An open-source tool for developing UI components in isolation.<br/>
+RadixUI: A collection of low-level UI primitives for building composable and accessible user interfaces.<br/>
+Typescript: Language for static typing.<br/>
+Stitches:  Library for styling React components.<br/>
 
 ## Getting Started
 
