@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
    <a href="https://github.com/brunod-e/ignite-call">
-    <img src="https://hotmart.s3.amazonaws.com/product_pictures/ec16822f-5482-421b-9c12-470cf1c099c8/Group6626.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="Logo" width="80">
   </a>
 
   <h3 align="center">Design System</h3>
@@ -18,7 +18,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/brunod-e/design-system/total) ![Contributors](https://img.shields.io/github/contributors/brunod-e/design-system?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/design-system) 
+![Downloads](https://img.shields.io/github/downloads/brunod-e/design-system/total) ![Contributors](https://img.shields.io/github/contributors/brunod-e/design-system?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/design-system) ![License](https://img.shields.io/github/license/brunod-e/design-system) 
 
 ## Table Of Contents
 
