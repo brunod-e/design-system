@@ -18,7 +18,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/brunod-e/design-system/total) ![Contributors](https://img.shields.io/github/contributors/brunod-e/design-system?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/design-system) ![License](https://img.shields.io/github/license/brunod-e/design-system) 
+![Downloads](https://img.shields.io/github/downloads/brunod-e/design-system/total) ![Contributors](https://img.shields.io/github/contributors/brunod-e/design-system?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/design-system) 
 
 ## Table Of Contents
 
