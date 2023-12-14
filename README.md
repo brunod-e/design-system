@@ -4,10 +4,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">Design System</h3>
+  <h3 align="center">Design System </h3>
 
   <p align="center">
-    A comprehensive set of guidelines, principles, and assets created using React and Storybook.
+    Component library that contains a comprehensive set of guidelines, principles, and assets created using React and Storybook.
     <br/>
     <br/>
     <a href="brunod-e.github.io/design-system/">View Demo</a>
@@ -18,7 +18,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/brunod-e/design-system/total) ![Contributors](https://img.shields.io/github/contributors/brunod-e/design-system?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/design-system)
+![Downloads](https://img.shields.io/github/downloads/brunod-e/design-system/total) ![Contributors](https://img.shields.io/github/contributors/brunod-e/design-system?color=dark-green) ![Issues](https://img.shields.io/github/issues/brunod-e/design-system) ![License](https://img.shields.io/github/license/brunod-e/design-system)
 
 ## Table Of Contents
 
